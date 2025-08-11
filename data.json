@@ -3,28 +3,28 @@
         {
             "id": 1,
             "name": "Honda Wr-v 2025",
-            "image": "/public/car-list/1-Wr-v-2025.png",
+            "image": "public/car-list/1-Wr-v-2025.png",
             "price_per_day": 375,
             "capacity": 5
         },
         {
             "id": 2,
             "name": "Honda New Brio 2025",
-            "image": "/public/car-list/2-new-brio-2025.png",
+            "image": "public/car-list/2-new-brio-2025.png",
             "price_per_day": 300,
             "capacity": 4
         },
         {
             "id": 3,
             "name": "Toyota Agya 2025",
-            "image": "/public/car-list/3-Agya-2025.png",
+            "image": "public/car-list/3-Agya-2025.png",
             "price_per_day": 300,
             "capacity": 4
         },
         {
             "id": 4,
             "name": "Toyota Calya 2024",
-            "image": "/public/car-list/4-Toyota-calya-2024.png",
+            "image": "public/car-list/4-Toyota-calya-2024.png",
             "price_per_day": 300,
             "capacity": 6
         }

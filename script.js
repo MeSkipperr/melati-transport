@@ -5,7 +5,7 @@ let currentLang = localStorage.getItem('lang') || defaultLang;
 // Load translation file
 async function loadTranslations() {
   try {
-    const res = await fetch('/translations.json');
+    const res = await fetch('./translations.json');
     translations = await res.json();
     applyTranslations(currentLang);
     setupLanguageSelector();
@@ -53,7 +53,7 @@ function setupLanguageSelector() {
 // Load and render car list
 async function renderCars() {
   try {
-    const res = await fetch('/data.json');
+    const res = await fetch('./data.json');
     const data = await res.json();
     const carList = document.getElementById('car-list');
     carList.innerHTML = '';
