@@ -77,7 +77,7 @@ async function renderCars() {
             <span>${langData['car-list-release-key'] || 'Lepas Kunci'}</span>
             <span>${formatPrice(car.price_per_day)}</span>
           </div>
-          <a href="https://wa.me/6281237727106?text=${formatContent(car.name)}"  target="_blank" rel="noopener noreferrer">
+          <a href="https://wa.me/62881038169779?text=${formatContent(car.name)}"  target="_blank" rel="noopener noreferrer">
             <button>${langData['book-now'] || 'Pesan Sekarang'}</button>
           </a>
         </div>

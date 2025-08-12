@@ -28,7 +28,7 @@
     "terms-5": "Penyewa akan dikenakan biaya kebersihan Rp50.000 – Rp500.000 jika mengembalikan kendaraan dalam kondisi sangat kotor, seperti ada muntahan, pasir, bulu hewan, atau benda menjijikkan lainnya.",
     "terms-6": "Kendaraan hanya boleh digunakan di area Provinsi Bali dan tidak boleh dibawa keluar pulau. Dilarang menyewakan ulang, menggadaikan, menjual, atau membawa barang terlarang di dalam kendaraan.",
     "terms-7": "Pihak rental berhak mengambil kembali kendaraan secara sepihak jika dianggap membahayakan atau berisiko, termasuk tindakan paksa, dan tidak dapat dituntut secara hukum oleh penyewa atas tindakan tersebut.",
-    "terms-8": "Penyewa wajib berfoto dengan kendaraan saat serah terima; dokumentasi ini menjadi milik MELATI CAR RENT dan bisa digunakan untuk kepentingan publikasi. Deposit berupa KTP/SIM dikembalikan saat mobil dikembalikan, sedangkan deposit uang akan dikembalikan maksimal dalam 5x24 jam kerja jika tidak ada pelanggaran yang menimbulkan biaya tambahan.",
+    "terms-8": "Penyewa wajib berfoto dengan kendaraan saat serah terima; dokumentasi ini menjadi milik MELATI CAR RENT dan bisa digunakan untuk kepentingan publikasi. Deposit berupa uang wajib diberikan dan akan dikembalikan saat kendaraan dikembalikan. Jika tidak ada pelanggaran atau biaya tambahan, deposit akan dikembalikan maksimal dalam 5×24 jam kerja.",
     "have-question-title": "Ada Pertanyaan?",
     "have-question-description": "Tim kami siap membantu Anda 24 jam penuh. Dapatkan pelayanan terbaik serta penawaran menarik khusus untuk Anda."  ,
     "whatsapp-message":"Halo%2C+saya+ingin+menyewa+mobil+Anda."
@@ -62,8 +62,8 @@
     "terms-5": "A cleaning fee of Rp50,000 – Rp500,000 will be charged if the vehicle is returned excessively dirty (e.g., vomit, sand, pet fur, or other disgusting items).",
     "terms-6": "Vehicles may only be used within Bali Province and cannot be taken off the island. Subleasing, pawning, selling, or transporting illegal goods in the vehicle is strictly prohibited.",
     "terms-7": "The rental provider reserves the right to reclaim the vehicle without notice if deemed dangerous or risky, including forced actions. The renter cannot take legal action against such retrieval.",
-    "terms-8": "The renter must take a photo with the vehicle upon handover; this documentation belongs to MELATI CAR RENT and may be used for publication. ID Card deposits are returned upon vehicle return; money deposits are refunded within 5 working days if there are no additional charges.",
-       "have-question-title": "Have a Question?",
+    "terms-8": "The renter must take a photo with the vehicle upon handover; this documentation belongs to MELATI CAR RENT and may be used for publication.A money deposit is required and will be returned upon vehicle return. If there are no violations or additional charges, the deposit will be refunded within 5 working days.",
+    "have-question-title": "Have a Question?",
     "have-question-description": "Our team is ready to assist you 24/7. Get the best service and special offers just for you.",
     "whatsapp-message":"Hello%2C+I+would+like+to+rent+your+car."
   }
